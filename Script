@@ -1,0 +1,5 @@
+local VoiceChat = game.Players.LocalPlayer.PlayerGui.MainUI.LobbyFrame.VoiceChat 
+VoiceChat.Visible = true
+VoiceChat.Normal.Visible = false
+VoiceChat.VoiceChat.Visible = true
+VoiceChat.NotEnabled.Visible = false
